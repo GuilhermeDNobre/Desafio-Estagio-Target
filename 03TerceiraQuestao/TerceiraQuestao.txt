@@ -1,0 +1,17 @@
+No item A começamos no número 1 e adicionamos 2 a ele, assim seu sucessor obtendo o valor 3, ao adicionarmos 2 obtemos o seu sucesorr, 5 e assim por diante, logo 7 + 2 = 9.
+a) 1, 3, 5, 7, ___ = 9
+
+Aqui temos um clássico caso do sistema computacional visto que todo sistema é baseado em um sistema binário (0, 1) temos as potências de 2, sendo eles os seus resultandos, onde 2 é igual a 2 elevado a 1, 4 seria 2 elevado a 2, e no final temos 2 elevado a 7 que nos dá o resultado 128.
+b) 2, 4, 8, 16, 32, 64, ____ = 128
+
+Nessa sequência devemos somar aos números(começando pelo 0) os números ímpares, logo, temos 0 + 1 = 1, 1 + 3 = 4, 4 + 5 = 9... 36 + 13 = 49.
+c) 0, 1, 4, 9, 16, 25, 36, ____ = 49
+
+Na sequência abaixo temos o valor do quadrado dos números pares, onde 2² = 4, 4² = 16, 6² = 36... 10² = 100 pois 10 seria o próximo número par da sequência a ser elevado por 2.
+d) 4, 16, 36, 64, ____ = 100
+
+Abaixo temos a sequência de fibonnacci onde o novo número é representado pela soma de seus dois anteriores, podemos observar essa sequência ao fazermos, 1 + 1 = 2, 2 + 1 = 3, 3 + 2 = 5, 5 + 3 = 8... e por ai em diante onde nosso próxiomo valor seria representado por 8 + 5 que é igual a 13.
+e) 1, 1, 2, 3, 5, 8, ____ = 13
+
+A sequência não apresenta padrão estabelecido entre todos os números, porém, de acordo com o aumento igual entre as 4 últimas instâncias da sequência, podemos acreditar que o próximo número manterá tal aumento de forma que 19 + 1 = 20
+f) 2, 10, 12, 16, 17, 18, 19, ____ = 20

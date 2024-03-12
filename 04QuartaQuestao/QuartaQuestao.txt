@@ -1,0 +1,15 @@
+Pode resolver-se esse problema da seguinte forma:
+
+Primeira visita à sala das lâmpadas:
+    Ligue um interruptor e aguarde alguns minutos.
+    Desligue esse interruptor e ligue outro interruptor.
+    Deixe o terceiro interruptor desligado.
+
+
+Segunda visita à sala das lâmpadas:
+    Entre na sala das lâmpadas.
+    A lâmpada que está acesa está conectada ao último interruptor que você ligou.
+    A lâmpada que está apagada e quente está conectada ao primeiro interruptor que você ligou e desligou.
+    A lâmpada que está apagada e fria está conectada ao interruptor que você nunca ligou.
+
+Dessa forma, utilizando apenas duas visitas, pode-se determinar qual interruptor controla cada lâmpada.
